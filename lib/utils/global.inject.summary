@@ -1,0 +1,8 @@
+{
+  "asset": "asset:hrms/lib/utils/global.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

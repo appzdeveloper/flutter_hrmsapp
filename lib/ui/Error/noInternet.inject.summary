@@ -1,0 +1,8 @@
+{
+  "asset": "asset:hrms/lib/ui/Error/noInternet.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

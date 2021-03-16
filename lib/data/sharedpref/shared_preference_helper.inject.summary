@@ -1,0 +1,8 @@
+{
+  "asset": "asset:hrms/lib/data/sharedpref/shared_preference_helper.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

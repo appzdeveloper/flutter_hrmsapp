@@ -1,0 +1,8 @@
+{
+  "asset": "asset:hrms/lib/widgets/chat_bubble.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

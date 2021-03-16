@@ -1,0 +1,8 @@
+{
+  "asset": "asset:hrms/lib/data/network/dio_client.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "asset": "asset:hrms/lib/customIcons/custom_icons_icons.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "asset": "asset:hrms/lib/ui/chat/chat.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}
