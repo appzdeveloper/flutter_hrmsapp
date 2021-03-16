@@ -9,7 +9,7 @@ Human Resource Management System
 Download or clone this repo by using the link below:
 
 ```
-git clone http://192.168.1.73:6768/Arpit/human-resource-management-system-mobile-app.git
+git clone https://github.com/appzdeveloper/flutter_hrmsapp
 ```
 
 **Step 2:**
@@ -39,5 +39,5 @@ To Create Launcher icon
 flutter pub pub run flutter_launcher_icons:main
 ```
 
-**Read more about project structure and used libraries [here](http://192.168.1.73:6768/Arpit/human-resource-management-system-mobile-app/wikis/home)**
+**Read more about project structure and used libraries [here](https://github.com/appzdeveloper/flutter_hrmsapp/wikis/home)**
 
